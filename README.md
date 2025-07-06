@@ -6,4 +6,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repos
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame)](https://github.com/yourusername/reponame)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=noirsuniverse&repo=Pixelmorph)](https://github.com/noirsuniverse/Pixelmorph)
